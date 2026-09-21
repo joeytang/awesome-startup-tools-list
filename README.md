@@ -376,6 +376,7 @@ Good for team projects
 - Video captions - https://subsvideo.com
 - VEED - https://www.veed.io
 - Tavus (AI based) - https://www.tavus.io
+- AdsTurbo (AI video ads) - https://adsturbo.ai
 
 ### Stock Photos/Illustrations/Icons:
 - Unsplash - https://unsplash.com
